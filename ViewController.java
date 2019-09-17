@@ -24,5 +24,10 @@ public class ViewController implements Controller {
 		return new ModelAndView("home", "richa",d);
 		
 	}
+	
+	
+	public void m1(){
+		
+	}
 
 }
